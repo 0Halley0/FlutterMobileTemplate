@@ -1,0 +1,2 @@
+# FlutterMobileTemplate
+Mobile app template
